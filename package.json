@@ -4,7 +4,10 @@
   "description": "A simple React boilerplate/starter kit",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "rimraf dist && NODE_ENV='development' webpack --config ./webpack.config.js --progress --profile --colors",
+    "prod": "rimraf dist && NODE_ENV='production' webpack --config ./webpack.production.config.js --progress --profile --colors",
+    "test": "haha no"
   },
   "repository": {
     "type": "git",
