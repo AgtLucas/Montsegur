@@ -59,10 +59,10 @@ module.exports = {
         'url-loader?limit=8192'
       ]
     }],
+  },
 
-    resolve: {
-      extensions: ['', '.js', '.json', '.css']
-    }
+  resolve: {
+    extensions: ['', '.js', '.json', '.css']
   },
 
   postcss: function (webpack) {
