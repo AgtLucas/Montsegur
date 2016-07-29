@@ -26,10 +26,10 @@
   "homepage": "https://github.com/AgtLucas/Montsegur#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "lodash": "^4.14.0",
+    "lodash": "^4.14.1",
     "lost": "^7.0.3",
-    "react": "^15.2.1",
-    "react-dom": "^15.2.1",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
     "suitcss-base": "^2.0.0"
   },
   "devDependencies": {
