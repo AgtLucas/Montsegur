@@ -59,6 +59,10 @@ module.exports = {
   resolve: {
     extensions: ['', '.js', '.json', '.css']
   },
+  
+  node: {
+    process: false
+  },
 
   postcss: function (webpack) {
     return [
