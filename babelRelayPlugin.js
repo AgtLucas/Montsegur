@@ -10,7 +10,7 @@ let response = request('GET', graphqlHubUrl, {
   }
 })
 
-const schema = JSON.parse(response.body.toString('utf-8'))
+let schema = JSON.parse(response.body.toString('utf-8'))
 
 module.exports = babelRelayPlugin(schema.data, {
   abortOnError: true
