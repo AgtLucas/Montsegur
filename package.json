@@ -25,12 +25,16 @@
   },
   "homepage": "https://github.com/AgtLucas/Montsegur#readme",
   "dependencies": {
+    "babel-relay-plugin": "^0.9.3",
     "express": "^4.14.0",
+    "graphql": "^0.7.0",
     "lodash": "^4.16.1",
     "lost": "^7.1.0",
     "react": "^15.3.1",
     "react-dom": "^15.3.2",
-    "suitcss-base": "^2.0.0"
+    "react-relay": "^0.9.3",
+    "suitcss-base": "^2.0.0",
+    "sync-request": "^3.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.14.0",
