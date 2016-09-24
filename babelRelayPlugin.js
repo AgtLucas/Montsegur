@@ -4,7 +4,7 @@ const request = require('sync-request')
 
 const graphqlHubUrl = 'https://www.graphqlhub.com/graphql'
 
-let response = request('GET', graphql, {
+let response = request('GET', graphqlHubUrl, {
   qs: {
     query: introspectionQuery
   }
