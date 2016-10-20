@@ -52,7 +52,7 @@
     "html-webpack-plugin": "^2.22.0",
     "postcss-cssnext": "^2.8.0",
     "postcss-focus": "^1.0.0",
-    "postcss-font-magician": "^1.4.0",
+    "postcss-font-magician": "^1.5.0",
     "postcss-import": "^8.1.2",
     "postcss-loader": "^1.0.0",
     "postcss-nested": "^1.0.0",
