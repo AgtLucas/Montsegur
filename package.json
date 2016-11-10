@@ -27,7 +27,7 @@
   "dependencies": {
     "babel-relay-plugin": "^0.9.3",
     "express": "^4.14.0",
-    "graphql": "^0.7.2",
+    "graphql": "^0.8.0",
     "lodash": "^4.16.5",
     "lost": "^7.1.1",
     "react": "^15.3.1",
