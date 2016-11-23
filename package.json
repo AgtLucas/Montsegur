@@ -30,7 +30,7 @@
     "graphql": "^0.8.2",
     "lodash": "^4.17.2",
     "lost": "^7.1.1",
-    "react": "^15.4.0",
+    "react": "^15.4.1",
     "react-dom": "^15.3.2",
     "react-relay": "^0.9.3",
     "suitcss-base": "^2.0.0",
