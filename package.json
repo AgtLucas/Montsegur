@@ -32,7 +32,7 @@
     "lost": "^7.1.1",
     "react": "^15.4.1",
     "react-dom": "^15.3.2",
-    "react-relay": "^0.9.3",
+    "react-relay": "^0.10.0",
     "suitcss-base": "^2.0.0",
     "sync-request": "^3.0.1"
   },
