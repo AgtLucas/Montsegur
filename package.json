@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/AgtLucas/Montsegur#readme",
   "dependencies": {
-    "babel-relay-plugin": "^0.9.3",
+    "babel-relay-plugin": "^0.10.0",
     "express": "^4.14.0",
     "graphql": "^0.8.2",
     "lodash": "^4.17.2",
