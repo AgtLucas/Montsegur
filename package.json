@@ -28,7 +28,7 @@
     "babel-relay-plugin": "^0.10.0",
     "express": "^4.14.0",
     "graphql": "^0.8.2",
-    "lodash": "^4.17.3",
+    "lodash": "^4.17.4",
     "lost": "^8.0.0",
     "react": "^15.4.1",
     "react-dom": "^15.3.2",
