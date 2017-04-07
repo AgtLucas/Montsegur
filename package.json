@@ -34,7 +34,7 @@
     "react-dom": "^15.4.2",
     "react-relay": "^0.10.0",
     "suitcss-base": "^2.0.0",
-    "sync-request": "^4.0.1"
+    "sync-request": "^4.0.2"
   },
   "devDependencies": {
     "babel-core": "^6.24.0",
