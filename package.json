@@ -33,7 +33,7 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-relay": "^0.10.0",
-    "suitcss-base": "^2.0.0",
+    "suitcss-base": "^3.0.0",
     "sync-request": "^4.0.2"
   },
   "devDependencies": {
