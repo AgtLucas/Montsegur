@@ -55,7 +55,7 @@
     "postcss-font-magician": "^1.6.0",
     "postcss-import": "^9.1.0",
     "postcss-loader": "^2.0.1",
-    "postcss-nested": "^2.0.0",
+    "postcss-nested": "^2.0.1",
     "precss": "^1.4.0",
     "rimraf": "^2.6.1",
     "style-loader": "^0.17.0",
